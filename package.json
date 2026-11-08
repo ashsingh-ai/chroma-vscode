@@ -1,5 +1,5 @@
 {
-  "name": "titlebar-color-picker",
+  "name": "chroma",
   "displayName": "Chroma",
   "description": "Instantly set your VS Code title bar color — native color picker, per-workspace.",
   "version": "1.0.0",

@@ -2,6 +2,8 @@
 
 Instantly color-code each VS Code window's title bar. One click, no config.
 
+**Free on the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ashsingh-ai.chroma)** · [GitHub](https://github.com/ashsingh-ai/chroma-vscode) · [Gumroad](https://wolfxweb.gumroad.com/l/chroma)
+
 ## Why
 
 Working on multiple projects in VS Code — with several windows open at the same time — means they all look the same. Finding the right window slows you down.
@@ -17,22 +19,24 @@ Chroma lets you select and apply a title bar color to each of your VS Code windo
 
 ## Install
 
-### From VS Code Marketplace
-Search **"Chroma"** in the Extensions panel, or install from the [Marketplace page](https://marketplace.visualstudio.com/items?itemName=ashsingh-ai.titlebar-color-picker).
+### Option 1 — VS Code Marketplace (free, recommended)
+Search **"Chroma"** in the Extensions panel (`Cmd+Shift+X`), or go to the [Marketplace page](https://marketplace.visualstudio.com/items?itemName=ashsingh-ai.chroma) and click **Install**.
 
-### From VSIX (manual)
-1. Download the `.vsix` from [Gumroad](https://wolfxweb.gumroad.com/l/chroma)
-2. Open VS Code → `Cmd+Shift+P` (Mac) / `Ctrl+Shift+P` (Windows)
-3. Type **"Install from VSIX"** → select the downloaded file
-4. Reload VS Code when prompted
+### Option 2 — VSIX manual install
+1. Download `chroma-1.0.0.vsix` from [Gumroad](https://wolfxweb.gumroad.com/l/chroma)
+2. Open VS Code
+3. Press `Cmd+Shift+P` (Mac) or `Ctrl+Shift+P` (Windows)
+4. Type **Install from VSIX** → select it
+5. Choose the downloaded `chroma-1.0.0.vsix` file → Open
+6. Reload VS Code when prompted
 
 ## Usage
 
 1. Click the **🎨 Chroma** icon in the status bar (bottom right)
 2. Pick a color from the native color picker
-3. Title bar updates instantly — saved per workspace
+3. Title bar changes instantly — saved per workspace
 
-To reset: `Cmd+Shift+P` → **"Chroma: Reset to Default"**
+To reset: `Cmd+Shift+P` → **Chroma: Reset to Default**
 
 ## Platforms
 
