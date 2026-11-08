@@ -2,8 +2,6 @@
 
 Instantly color-code each VS Code window's title bar. One click, no config.
 
-![Chroma in action](https://raw.githubusercontent.com/ashsingh-ai/chroma-vscode/main/icon.png)
-
 ## Why
 
 Working on multiple projects in VS Code — with several windows open at the same time — means they all look the same. Finding the right window slows you down.
