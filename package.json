@@ -2,7 +2,7 @@
   "name": "chroma",
   "displayName": "Chroma — Title Bar Colors",
   "description": "Instantly set your VS Code title bar color — native color picker, per-workspace.",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "publisher": "ashsingh-ai",
   "icon": "icon.png",
   "engines": { "vscode": "^1.85.0" },
