@@ -1,14 +1,14 @@
 {
   "name": "chroma",
-  "displayName": "Chroma",
+  "displayName": "Chroma — Title Bar Colors",
   "description": "Instantly set your VS Code title bar color — native color picker, per-workspace.",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "publisher": "ashsingh-ai",
   "icon": "icon.png",
   "engines": { "vscode": "^1.85.0" },
   "categories": ["Themes", "Other"],
   "keywords": ["titlebar", "color", "theme", "customize", "workspace"],
-  "repository": { "type": "git", "url": "https://github.com/ashish-singh-07/titlebar-color-picker" },
+  "repository": { "type": "git", "url": "https://github.com/ashsingh-ai/chroma-vscode" },
   "activationEvents": ["onStartupFinished"],
   "main": "./out/extension.js",
   "contributes": {

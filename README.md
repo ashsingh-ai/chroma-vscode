@@ -23,11 +23,11 @@ Chroma lets you select and apply a title bar color to each of your VS Code windo
 Search **"Chroma"** in the Extensions panel (`Cmd+Shift+X`), or go to the [Marketplace page](https://marketplace.visualstudio.com/items?itemName=ashsingh-ai.chroma) and click **Install**.
 
 ### Option 2 — VSIX manual install
-1. Download `chroma-1.0.0.vsix` from [Gumroad](https://wolfxweb.gumroad.com/l/chroma)
+1. Download the `.vsix` file from [Gumroad](https://wolfxweb.gumroad.com/l/chroma)
 2. Open VS Code
 3. Press `Cmd+Shift+P` (Mac) or `Ctrl+Shift+P` (Windows)
 4. Type **Install from VSIX** → select it
-5. Choose the downloaded `chroma-1.0.0.vsix` file → Open
+5. Choose the downloaded file → Open
 6. Reload VS Code when prompted
 
 ## Usage
