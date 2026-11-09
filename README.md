@@ -40,11 +40,11 @@ To reset: `Cmd+Shift+P` → **Chroma: Reset to Default**
 
 ## Platforms
 
-| Platform | Color Picker |
-|----------|-------------|
-| macOS | Native (osascript) |
-| Windows | Native (PowerShell ColorDialog) |
-| Linux | Hex input box |
+| Platform | Color Picker | Status |
+|----------|-------------|--------|
+| macOS | Native (osascript) | Supported |
+| Windows | Native (PowerShell ColorDialog) | Experimental |
+| Linux | Hex input box | Experimental |
 
 ## License
 
