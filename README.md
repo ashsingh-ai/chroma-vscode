@@ -43,7 +43,7 @@ To reset: `Cmd+Shift+P` → **Chroma: Reset to Default**
 | Platform | Color Picker | Status |
 |----------|-------------|--------|
 | macOS | Native (osascript) | Supported |
-| Windows | Native (PowerShell ColorDialog) | Experimental |
+| Windows | Native (PowerShell ColorDialog) | Supported |
 | Linux | Hex input box | Experimental |
 
 ## License
